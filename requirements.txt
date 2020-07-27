@@ -1,3 +1,2 @@
 tqdm
 numpy
-torch>=0.4.0
